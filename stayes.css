@@ -1,0 +1,74 @@
+body {
+    color: black;
+    background: rgb(197, 73, 181);
+    margin: 0px;
+    font-family: "Nerko One", cursive;
+}
+
+header {
+    border-bottom: solid 2px violet;
+    padding: 10px;
+    font: size 20px;
+    color: hotpink
+}
+
+section {
+    background-color;
+    padding-bottom: 80px;
+    padding: top 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 20px;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+
+
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.categoria-videos {
+
+    color: blueviolet;
+}
+
+
+
+
+
+.categoria-videos img {
+
+    opacity: 0.5;
+height: 200px;
+
+}
+
+.categoria-videos img:hover{
+opacity: 1.0;
+border: 1px solid rgb(31, 159, 152);
+}
+
+.categoria h2{
+    color:  hotpink;
+}
+
